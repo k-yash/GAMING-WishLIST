@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;1,700&display=swap");
 
 body {
-  /* background: url("https://t3.ftcdn.net/jpg/03/23/88/08/360_F_323880864_TPsH5ropjEBo1ViILJmcFHJqsBzorxUB.jpg") */
-  /* no-repeat center center fixed; */
-  background-color: #3e3e3e;
+  background: url("https://wallpaperaccess.com/full/7445.jpg") no-repeat center
+    center fixed;
+  /* background-color: #3e3e3e; */
   background-size: cover;
   font-family: "Rubik", sans-serif;
 }
